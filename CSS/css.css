@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @charset "utf-8";
 /* CSS Document */
 body{ background:#ff6494 url(../images/bg1.jpg) no-repeat center 0; margin:0; padding:0;}
@@ -43,50 +42,4 @@ body{ background:#ff6494 url(../images/bg1.jpg) no-repeat center 0; margin:0; pa
     left: 960px;}
 .leftmain{ background:#fadbd9 url(../images/left.jpg) center 0 no-repeat }
 .rightmain{ background:#fbc1c0 url(../images/right.jpg) center 0 no-repeat }
-=======
-@charset "utf-8";
-/* CSS Document */
-body{ background:#ff6494 url(../images/bg1.jpg) no-repeat center 0; margin:0; padding:0;}
-.main{ position:relative; width:1165px; height:717px; margin:0 auto}
-.leftbtn{    position: absolute;
-    display: block;
-    width: 60px;
-    height: 40px;
-    top: 330px;
-    left: 0;}
-
-.rightbtn{    position: absolute;
-    display: block;
-    width: 60px;
-    height: 40px;
-    top: 330px;
-    right: 0;}
-
-.topbtn{    position: absolute;
-    display: block;
-    width: 60px;
-    height: 60px;
-    top: 0;
-    left: 550px;}
-.musicbtn{position: absolute;
-    display: block;
-    width: 65px;
-    height: 63px;
-    top: 606px;
-    left: 550px;}
-.closebtn{position: absolute;
-    display: block;
-    width: 65px;
-    height: 63px;
-    top: 10px;
-    left: 0;}
-.closebtn1{position: absolute;
-    display: block;
-    width: 65px;
-    height: 63px;
-    top: 130px;
-    left: 960px;}
-.leftmain{ background:#fadbd9 url(../images/left.jpg) center 0 no-repeat }
-.rightmain{ background:#fbc1c0 url(../images/right.jpg) center 0 no-repeat }
->>>>>>> c101273925b3a37eaba81bb357a700607c958456
 .topmain{ background:#e0dedf url(../images/top.jpg) center 0 no-repeat }
